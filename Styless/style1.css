@@ -825,3 +825,21 @@
     gap: 3rem;
   }
 }
+
+.lg{
+  width: 100%;
+  height: auto;
+}
+
+.bg{
+  width: 100%;
+}
+
+input{
+  border: none;
+  outline:none ;
+  border-radius: 12px;
+  padding-right: 4px;
+  padding-left: 4px;
+  
+}
